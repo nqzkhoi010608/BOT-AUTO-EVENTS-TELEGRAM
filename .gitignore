@@ -38,6 +38,9 @@ htmlcov/
 *.swp
 *.swo
 
+# ---- AI image scratch output ----
+vibe_images/
+
 # ---- OS ----
 .DS_Store
 Thumbs.db
